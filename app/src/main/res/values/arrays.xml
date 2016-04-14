@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_title_array">
+        <item>@string/event_title_gdg_rebirth</item>
+        <item>@string/event_title_study_jam_1</item>
+        <item>@string/event_title_study_jam_2</item>
+        <item>@string/event_title_study_jam_3</item>
+        <item>@string/event_title_golden_mile</item>
+        <item>@string/event_title_google_io</item>
+    </string-array>
+    <string-array name="event_location_array">
+        <item>@string/event_location_gdg_rebirth</item>
+        <item>@string/event_location_study_jam_1</item>
+        <item>@string/event_location_study_jam_2</item>
+        <item>@string/event_location_study_jam_3</item>
+        <item>@string/event_location_golden_mile</item>
+        <item>@string/event_location_google_io</item>
+    </string-array>
+    <string-array name="event_date_array">
+        <item>@string/event_date_gdg_rebirth</item>
+        <item>@string/event_date_study_jam_1</item>
+        <item>@string/event_date_study_jam_2</item>
+        <item>@string/event_date_study_jam_3</item>
+        <item>@string/event_date_golden_mile</item>
+        <item>@string/event_date_google_io</item>
+    </string-array>
+    <string-array name="event_description_array">
+        <item>@string/event_description_gdg_rebirth</item>
+        <item>@string/event_description_study_jam_1</item>
+        <item>@string/event_description_study_jam_2</item>
+        <item>@string/event_description_study_jam_3</item>
+        <item>@string/event_description_golden_mile</item>
+        <item>@string/event_description_google_io</item>
+    </string-array>
+    <string-array name="event_email_array">
+        <item>@string/event_email_generic</item>
+        <item>@string/event_email_study_jam_1</item>
+        <item>@string/event_email_study_jam_1</item>
+        <item>@string/event_email_study_jam_1</item>
+        <item>@string/event_email_golden_mile</item>
+        <item>@string/event_email_generic</item>
+    </string-array>
+</resources>

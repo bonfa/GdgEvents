@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">GDG Brescia - Eventi 2016</string>
+
+    <!-- Content description -->
+    <string name="content_description_event_icon">Icona evento</string>
+
+    <!-- Placeholder -->
+    <string name="placeholder_title">Title</string>
+    <string name="placeholder_place">Place</string>
+    <string name="placeholder_date">Date</string>
+    <string name="placeholder_description">Description description description description description description description description description description description description description description description description description description description description description description description</string>
+
+    <!-- Event recicler view -->
+    <string name="event_title_gdg_rebirth">Gdg Rebirth</string>
+    <string name="event_title_study_jam_1">Study Jams – 1</string>
+    <string name="event_title_study_jam_2">Study Jams – 2</string>
+    <string name="event_title_study_jam_3">Study Jams – 3</string>
+    <string name="event_title_golden_mile">Golden Mile</string>
+    <string name="event_title_google_io">Google I/O</string>
+
+    <string name="event_location_gdg_rebirth">Via Stassano, 29, Brescia</string>
+    <string name="event_location_study_jam_1">Via Branze, 38, Brescia</string>
+    <string name="event_location_study_jam_2">Via Branze, 38, Brescia</string>
+    <string name="event_location_study_jam_3">Via Branze, 38, Brescia</string>
+    <string name="event_location_golden_mile">Largo Torrelunga, 4, Brescia</string>
+    <string name="event_location_google_io">Via Stassano, 29, Brescia</string>
+
+    <string name="event_description_gdg_rebirth"><![CDATA[Il GDG Rebirth è il primo evento del 2016, che sta a testimoniare l’effettiva rinascita del GDG Brescia. La partenza è soft, un evento dedicato a tutti, non è necessario che tu sia uno sviluppatore o meno, puoi partecipare! L’evento è diviso in 3 Sessioni principali:  #SESSIONE 01 TALK SUI FONDAMENTI DEL MATERIAL DESIGN  Linee guida dettate da Google per espimere al meglio il material design e rendere le nostre/vostre interfacce il più user-friendly possibile, con l’aiuto di espedienti grafici e di animazione.  #SESSIONE 02 GARAGE/WORKSHOP – PARTE 1  Quest’anno, l’ultima parte del nostro evento sarà dedicata alla realizzazione di una app, tutti insieme, chiunque può portare il suo contributo, non è necessario essere per forza sviluppatori, potresti avere delle idee vincenti. L’appuntamento sarà quindi ripreso in tutti gli eventi, tutto l’anno/i fino al termine del progetto!  #SESSIONE 03 GOOGLE TIPS&TRICKS  Piccoli accorgimenti per ottenere il meglio, e anche qualche cosa di più dal tuo Account Google.]]></string>
+    <string name="event_description_golden_mile">In cosa consiste: Dopo il boom creato da Google per l’iniziativa Guide Locali che permette a chiunque di lasciare il proprio pensiero e la propria recensione riguardo luoghi, bar, ristoranti, etc.. è arrivata l’idea Geniale proposta da un nostro follower ed ora attivo collaboratore Fulvio Ciarcia, ispirata al film La Fine del Mondo (the World’s End) nel quale un gruppo di amici vuole completare “il Miglio Dorato”, un miglio intervallato da 12 tappe, (Pub) e bere quindi altrettante Pinte di birra. 12 Pinte sarebbero state oltre la nostra portata e quindi abbiamo deciso di ridimensionarci, abbiamo fissato un percorso di 6 pub per trascorrere una serata diversa, recensire in compagnia su Google Maps i Pub più particolari e tutti gli esercizi commerciali lungo il tragitto, giocare ad Ingress durante gli spostamenti e parlare di Novità e Sviluppo conoscendo nuove persone con stessi interessi e passioni. Il “Miglio” ha quindi visto partecipi locali come: L’Arnaldienplatz, il BlackSheep, l’Estrella, il Torre d’Ercole, il Martha e per completare in bellezza (e anche con un pò di sforzo) lo Chalet, in Castello. Le forze delle community del GDG Brescia, delle Guide Locali Brescia e le varie sottocommunity di Ingress si sono unite in un evento singolare, prefestivo che ha riscosso molto successo anche sui giornali locali e ha trovato approvazione anche nei locali in cui ci siamo presentati chiedendo “C’è posto per 35 persone?!” Sicuramente un evento non prettamente GDG, ma che fa community e che aiuta giovani informatici ed appassionati del mondo Google a trovarsi e a scambiare opinioni.. e perchè no. Anche a collaborare insieme!</string>
+    <string name="event_description_google_io">Come ogni anno, abbiamo preso parte all’evento più atteso per tutti i fan Google: il Google I/O, uno showcase dedicato agli sviluppatori di tutto il mondo nel quale vengono presentate tutte le novità di casa Google. L’evento viene seguito in diretta dalla sede principale e al suo termine raccogliamo idee ed opinioni in merito organizzando un piccolo dibattito. L’appuntamento è fisso, tutti gli anni!</string>
+    <string name="event_description_study_jam_1">Vuoi avvicinarti allo sviluppo di applicazioni per Android e non sai come fare? Il GDG Brescia, organizza 3 sessioni di StudyJams – Android for Beginners con tanto di attestato di frequenza Udacity, che poi, potrà essere convertito in Certificazione ufficiale sul sito Udacity (a pagamento).</string>
+    <string name="event_description_study_jam_2">Vuoi avvicinarti allo sviluppo di applicazioni per Android e non sai come fare? Il GDG Brescia, organizza 3 sessioni di StudyJams – Android for Beginners con tanto di attestato di frequenza Udacity, che poi, potrà essere convertito in Certificazione ufficiale sul sito Udacity (a pagamento).</string>
+    <string name="event_description_study_jam_3">Vuoi avvicinarti allo sviluppo di applicazioni per Android e non sai come fare? Il GDG Brescia, organizza 3 sessioni di StudyJams – Android for Beginners con tanto di attestato di frequenza Udacity, che poi, potrà essere convertito in Certificazione ufficiale sul sito Udacity (a pagamento).</string>
+
+    <string name="event_date_gdg_rebirth">12–02–2016 20:30</string>
+    <string name="event_date_study_jam_1">02–04–2016 9:30</string>
+    <string name="event_date_study_jam_2">09–04–2016 9:30</string>
+    <string name="event_date_study_jam_3">16–04–2016 9:30</string>
+    <string name="event_date_golden_mile">23–12–2016 20:00</string>
+    <string name="event_date_google_io">28–03–2016 17:00</string>
+
+    <string name="event_email_generic">events@gdgbrescia.com</string>
+    <string name="event_email_study_jam_1">studyjam@gdgbrescia.com</string>
+    <string name="event_email_golden_mile">goldenmile@gdgbrescia.com</string>
+
+    <string name="template_email_info_subject">Info evento %1s</string>
+    <string name="template_email_info_body">Buongiorno,\n avrei alcune domande riguardo all\'evento in oggetto:\n\ncompleta la form…\n\nGrazie</string>
+    <string name="chooser_title">Apri con…</string>
+    <string name="no_available_email_client_installed">Sul dispositivo non ci sono app per inviare email. Installarne una e riprovare</string>
+    <string name="no_available_map_client_installed">Sul dispositivo non ci sono app per visualizzare mappe. Installarne una e riprovare</string>
+    <string name="no_available_calendar_client_installed">Sul dispositivo non ci sono app per visualizzare calendari. Installarne una e riprovare</string>
+</resources>
